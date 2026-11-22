@@ -1,0 +1,57 @@
+ {
+        "navHome": "Почетна",
+        "navServices": "Услуги",
+        "navLocations": "Локации",
+        "navContact": "Контакт",
+
+        "heroLabel": "Хемиско чистење и водено перење",
+        "heroTitle": "Свежина и грижа за вашата облека",
+        "heroDescription": "Quick&Fresh нуди професионално хемиско чистење, перење, пеглање и специјализирана нега за вашата облека и дом.",
+        "servicesButton": "Нашите услуги",
+        "contactButton": "Контакт",
+
+        "whyTitle": "Зошто Quick&Fresh?",
+        "why1": "Професионална нега",
+        "why2": "Две локации во Скопје",
+        "why3": "Брза и квалитетна услуга",
+        "why4": "Cleaning with care",
+
+        "servicesTitle": "Нашите услуги",
+        "servicesDescription": "Нега за вашата облека со внимание, квалитет и професионален пристап.",
+
+        "service1Title": "Хемиско чистење",
+        "service1Desc": "Професионално чистење за чувствителни и елегантни парчиња облека.",
+
+        "service2Title": "Перење и сушење",
+        "service2Desc": "Темелно перење и освежување на секојдневна облека и текстил.",
+
+        "service3Title": "Пеглање",
+        "service3Desc": "Уредна и подготвена облека со професионално пеглање и пресување.",
+
+        "service4Title": "Чистење обувки",
+        "service4Desc": "Освежување и чистење на обувки со внимание на материјалот.",
+
+        "service5Title": "Чистење завеси",
+        "service5Desc": "Квалитетно чистење на завеси за почист и посвеж дом.",
+
+        "locationsTitle": "Нашите локации",
+        "locationsDescription": "Quick&Fresh е достапен на две практични локации во Скопје.",
+        "location1Desc": "Quick&Fresh продавница во East Gate Mall, Автокоманда, Скопје.",
+        "location2Desc": "Quick&Fresh продавница во Garden Inn Mall, Влае, Скопје.",
+        "directionsButton": "Насоки",
+
+        "contactTitle": "Контакт информации",
+        "contactDescription": "Контактирајте нè за повеќе информации.",
+        "phoneLabel": "Телефон",
+        "emailLabel": "Е-пошта",
+        "instagramLabel": "Instagram",
+        "hoursLabel": "Работно време",
+        "hoursWeekdays": "Пон–Саб: 09:00 – 21:00",
+        "hoursSunday": "Недела: Затворено",
+
+        "footerLocations": "Локации: East Gate Mall | Garden Inn Mall – Влае",
+        "footerDescription": "Професионално хемиско чистење, перење и грижа за вашата облека. Квалитетна услуга на две локации во Скопје.",
+        "footerLinks": "Брзи линкови",
+        "footerConnect": "Поврзете се со нас"
+    
+    }

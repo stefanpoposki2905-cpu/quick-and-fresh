@@ -1,0 +1,56 @@
+{
+        "navHome": "Home",
+        "navServices": "Services",
+        "navLocations": "Locations",
+        "navContact": "Contact",
+
+        "heroLabel": "Dry Cleaning and Laundry",
+        "heroTitle": "Freshness and care for your clothes",
+        "heroDescription": "Quick&Fresh offers professional dry cleaning, laundry, ironing and specialised care for your clothes and home.",
+        "servicesButton": "Our Services",
+        "contactButton": "Contact Us",
+
+        "whyTitle": "Why Quick&Fresh?",
+        "why1": "Professional care",
+        "why2": "Two locations in Skopje",
+        "why3": "Fast and quality service",
+        "why4": "Cleaning with care",
+
+        "servicesTitle": "Our Services",
+        "servicesDescription": "Caring for your clothes with attention, quality and a professional approach.",
+
+        "service1Title": "Dry Cleaning",
+        "service1Desc": "Professional cleaning for delicate and elegant garments.",
+
+        "service2Title": "Laundry and Drying",
+        "service2Desc": "Thorough washing and refreshing of everyday clothing and textiles.",
+
+        "service3Title": "Ironing",
+        "service3Desc": "Neatly prepared clothes with professional ironing and pressing.",
+
+        "service4Title": "Shoe Cleaning",
+        "service4Desc": "Refreshing and cleaning footwear with attention to the material.",
+
+        "service5Title": "Curtain Cleaning",
+        "service5Desc": "Quality curtain cleaning for a cleaner and fresher home.",
+
+        "locationsTitle": "Our Locations",
+        "locationsDescription": "Quick&Fresh is available at two convenient locations in Skopje.",
+        "location1Desc": "Quick&Fresh store at East Gate Mall, Avtokomanda, Skopje.",
+        "location2Desc": "Quick&Fresh store at Garden Inn Mall, Vlae, Skopje.",
+        "directionsButton": "Get Directions",
+
+        "contactTitle": "Contact Information",
+        "contactDescription": "Contact us for more information.",
+        "phoneLabel": "Phone",
+        "emailLabel": "Email",
+        "instagramLabel": "Instagram",
+        "hoursLabel": "Opening Hours",
+        "hoursWeekdays": "Mon–Sat: 09:00 – 21:00",
+        "hoursSunday": "Sunday: Closed",
+
+        "footerLocations": "Locations: East Gate Mall | Garden Inn Mall – Vlae",
+        "footerDescription": "Professional dry cleaning, laundry and garment care. Quality service at two locations in Skopje.",
+        "footerLinks": "Quick Links",
+        "footerConnect": "Connect With Us" 
+    }

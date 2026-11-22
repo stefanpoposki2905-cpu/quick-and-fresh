@@ -1,0 +1,57 @@
+{
+        "navHome": "Ballina",
+        "navServices": "Shërbimet",
+        "navLocations": "Lokacionet",
+        "navContact": "Kontakti",
+
+        "heroLabel": "Pastrim kimik dhe larje me ujë",
+        "heroTitle": "Freski dhe kujdes për rrobat tuaja",
+        "heroDescription": "Quick&Fresh ofron pastrim kimik profesional, larje, hekurosje dhe kujdes të specializuar për rrobat dhe shtëpinë tuaj.",
+        "servicesButton": "Shërbimet tona",
+        "contactButton": "Na kontaktoni",
+
+        "whyTitle": "Pse Quick&Fresh?",
+        "why1": "Kujdes profesional",
+        "why2": "Dy lokacione në Shkup",
+        "why3": "Shërbim i shpejtë dhe cilësor",
+        "why4": "Cleaning with care",
+
+        "servicesTitle": "Shërbimet tona",
+        "servicesDescription": "Kujdes për rrobat tuaja me vëmendje, cilësi dhe profesionalizëm.",
+
+        "service1Title": "Pastrim kimik",
+        "service1Desc": "Pastrim profesional për veshje delikate dhe elegante.",
+
+        "service2Title": "Larje dhe tharje",
+        "service2Desc": "Larje e plotë dhe freskim i rrobave të përditshme dhe tekstileve.",
+
+        "service3Title": "Hekurosje",
+        "service3Desc": "Rroba të rregulluara me hekurosje dhe presim profesional.",
+
+        "service4Title": "Pastrim këpucësh",
+        "service4Desc": "Freskim dhe pastrim i këpucëve me kujdes ndaj materialit.",
+
+        "service5Title": "Pastrim perdesh",
+        "service5Desc": "Pastrim cilësor i perdeve për një shtëpi më të pastër dhe më të freskët.",
+
+        "locationsTitle": "Lokacionet tona",
+        "locationsDescription": "Quick&Fresh gjendet në dy lokacione të përshtatshme në Shkup.",
+        "location1Desc": "Dyqani Quick&Fresh në East Gate Mall, Autokomandë, Shkup.",
+        "location2Desc": "Dyqani Quick&Fresh në Garden Inn Mall, Vlae, Shkup.",
+        "directionsButton": "Udhëzime",
+
+        "contactTitle": "Informacionet e kontaktit",
+        "contactDescription": "Na kontaktoni për më shumë informacion.",
+        "phoneLabel": "Telefoni",
+        "emailLabel": "Email",
+        "instagramLabel": "Instagram",
+        "hoursLabel": "Orari i punës",
+        "hoursWeekdays": "Hën–Sht: 09:00 – 21:00",
+        "hoursSunday": "E diel: Mbyllur",
+
+        "footerLocations": "Lokacionet: East Gate Mall | Garden Inn Mall – Vlae",
+        "footerDescription": "Pastrim kimik profesional, larje dhe kujdes për rrobat tuaja. Shërbim cilësor në dy lokacione në Shkup.",
+        "footerLinks": "Lidhje të shpejta",
+        "footerConnect": "Na kontaktoni" 
+        
+    }
